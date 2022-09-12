@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LabKu</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+
+    <form>
+        <h1>LabKu</h1>
+        <div class="form-group">
+          <label for="Inputlab1">Nama Lab</label>
+          <input type="lab" class="form-control" id="Inputlab1" aria-describedby="labHelp" placeholder="Enter Lab">
+        </div>
+        <div class="form-group">
+          <label for="InputDokter1">Dokter</label>
+          <input type="dokter" class="form-control" id="InputDokter1" placeholder="Dokter">
+        </div>
+        <div class="form-group">
+            <label for="InputKalangan1">Kalangan</label>
+            <input type="kalangan" class="form-control" id="InputKalangan1" placeholder="Kalangan">
+        </div>
+        <div class="form-group form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-primary" id="submit">Submit</button>
+      </form>
+      <br>
+      <br>
+      <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+        th, td {
+          padding-top: 10px;
+          padding-bottom: 20px;
+          padding-left: 30px;
+          padding-right: 40px;
+        }
+        </style>
+      <table style="width:100%">
+        <thead>
+        <tr>
+          <th>No.</th>
+          <th>Lab</th>
+          <th>Dokter</th>
+          <th>Kalangan</th>
+        </tr>
+      </thead>
+      <tbody id="daftar-lab"></tbody>
+      </table>
+    </div>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+      <script>
+        function tampilkanLab() {
+            const dataTersimpan = localStorage.getItem("dataTersimpan");
+            var dataTersimpanObjectArray = JSON.parse(dataTersimpan);
+            if(dataTersimpanObjectArray === null) {
+                dataTersimpanObjectArray = [];
+            }
+
+            const daftarLab = document.getElementById("daftar-lab");
+
+            let isiDaftarLab = ``;
+
+            dataTersimpanObjectArray.forEach(function(dataTersimpanObject, index) {
+                isiDaftarLab += `
+                <tr>
+                            <th scope="row">${index + 1}</th>
+                            <td>${dataTersimpanObject.InputLab1}</td>
+                            <td>${dataTersimpanObject.InputDokter1}</td>
+                            <td>${dataTersimpanObject.InputKalangan1}</td>
+                        </tr>
+                `;
+            });
+
+            daftarLab.innerHTML = isiDaftarLab;
+
+        }
+
+        tampilkanLab();
+
+        var inputLab = document.getElementById("InputLab1");
+        var inputDokter = document.getElementById("InputDokter1");
+        var inputKalangan = document.getElementById("InputKalangan1");
+        var formcheckinput = document.getElementById("exampleCheck1");
+        var inputButton = document.getElementById("submit");
+
+        inputButton.onclick = function(perwakilanEvent) {
+            const InputLab1 = inputLab.value;
+            const InputDokter1 = inputDokter.value;
+            const InputKalangan1 = inputDemografis.value;
+            const lab = `Data dari ${InputLab1} dengan dokter ${InputDokter1} kalangan ${InputKalangan1}, telah diinput!`;
+            const data = {
+              InputLab1,
+              InputDokter1,
+              InputKalangan1,
+            };
+
+            console.log(data);
+
+            const dataTersimpan = localStorage.getItem("dataTersimpan");
+            const dataTersimpanObjectArray = JSON.parse(dataTersimpan)
+
+            if(dataTersimpan === null) {
+                localStorage.setItem("dataTersimpan", JSON.stringify([data]));
+            } else {
+                dataTersimpanObjectArray.push(data);
+                localStorage.setItem("dataTersimpan", JSON.stringify(dataTersimpanObjectArray));
+            }
+            tampilkanLab();
+        };
+    </script>
+    </body>
+</html>
