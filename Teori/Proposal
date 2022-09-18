@@ -1,1 +1,24 @@
+## Find Freelancer
+### Permasalahan
+- Sulitnya menemukan pekerja lepas atau Freelancer yang sesuai dengan bidang ataupun satu kriteria yang diinginkan.
+-
+### Rancangan Solusi
+- Membuat app yang menyediakan informasi pekerja lepas sesuai dengan kualifikasi yang diinginkan.
+- 
+- 
+-
+### Use Case
+- User dapat registrasi menggunakan nomor hp atau email
+- User dapat melihat deskripsi 
+
+### Struktur Data
+#### User
+|atribut | tipe data| contoh|
+|---|---|---|
+|Id| Integer| 123|
+|name| string| Wakambit|
+|Nomor| string| 12345555|
+
+### UX Wireframe
+~
 
