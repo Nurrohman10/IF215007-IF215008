@@ -4,9 +4,7 @@
 -
 ### Rancangan Solusi
 - Membuat app yang menyediakan informasi pekerja lepas sesuai dengan kualifikasi yang diinginkan.
-- 
-- 
--
+
 ### Use Case
 - User dapat registrasi menggunakan nomor hp atau email
 - User dapat melihat deskripsi 
