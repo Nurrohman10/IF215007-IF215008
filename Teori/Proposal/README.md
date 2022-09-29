@@ -3,7 +3,8 @@
 - Sulitnya menemukan pekerja lepas atau Freelancer yang sesuai dengan bidang ataupun satu kriteria yang diinginkan.
 -
 ### Rancangan Solusi
-- Membuat app yang menyediakan informasi pekerja lepas sesuai dengan kualifikasi yang diinginkan.
+- Membuat web yang menyediakan informasi pekerja lepas.
+- Mengklasifikasikan Sesuai dengan kebutuhan pelanggan.
 
 ### Use Case
 - User dapat registrasi menggunakan nomor hp atau email
