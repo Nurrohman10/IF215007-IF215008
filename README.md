@@ -94,7 +94,7 @@
             <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href " "> Git installation</td><td>1</td>
+            <td>Demo : <a href "https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Installization "> Git installation</td><td>1</td>
         </tr>
         <tr>
             <td>Demo : Github project initialization</td><td>1</td>
