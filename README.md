@@ -118,7 +118,7 @@
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/NodeJS%20%26%20NPM%20Install ">NodeJS & NPM installation, operation & hello world</td><td>4:heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href =" ">Linux server operation</td><td>5</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Linux%20Server%20Operation ">Linux server operation</td><td>5:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">Nginx / Apache web server installation & operation</td><td>5</td>
@@ -137,7 +137,7 @@
             <td>Demo : <a href =" ">HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : <a href =" ">Javascript Data Transformation</td><td>4</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Transformation%20Data ">Javascript Data Transformation</td><td>4:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/blob/main/Praktikum/BrowserAPI.html ">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5:heavy_check_mark:</td>
