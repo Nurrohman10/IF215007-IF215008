@@ -140,7 +140,7 @@
             <td>Demo : <a href =" ">Javascript Data Transformation</td><td>4</td>
         </tr>
         <tr>
-            <td>Demo : <a href =" ">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/blob/main/Praktikum/BrowserAPI.html ">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">HTTP GET & POST using Form Action and Fetch API</td><td>5</td>
