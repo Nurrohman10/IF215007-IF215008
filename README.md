@@ -96,8 +96,8 @@
         <tr>
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Installization "> Git installation</td><td>1:heavy_check_mark:</td>
         </tr>
-        <tr>
-            <td>Demo :  <a href =" https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Project%20init"> Github project initialization</td><td>1:heavy_check_mark:</td>
+      <tr>
+            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Git%20Project%20init">Github project initialization</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">Hoppscotch / Postman access</td><td>1</td>
