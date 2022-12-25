@@ -5,7 +5,7 @@ ini adalah hello world package for php composer beginner untuk tutorial. baca le
 ## Usage ##
 
 ```bash
-$ composer require kholis/hello-world
+$ composer require oman/hello-world
 $ touch test.php
 ```
 
