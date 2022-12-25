@@ -134,7 +134,7 @@
             <td rowspan=9>35 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href =" ">HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Responsive%20Layout ">HTML Responsive Layout with Media Query & Flexbox</td><td>3:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Transformation%20Data ">Javascript Data Transformation</td><td>4:heavy_check_mark:</td>
