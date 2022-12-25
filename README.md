@@ -97,84 +97,84 @@
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Installization "> Git installation</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : Github project initialization</td><td>1</td>
+            <td>Demo :  <a href =" https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Project%20init"> Github project initialization</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : Hoppscotch / Postman access</td><td>1</td>
+            <td>Demo : <a href =" ">Hoppscotch / Postman access</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : PHP & Composer installation & hello world</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/PHP%20%26%20Composer%20installation%20%26%20hello%20world ">PHP & Composer installation & hello world</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : PostgreSQL / MySQL installation</td><td>2</td>
+            <td>Demo : <a href =" ">PostgreSQL / MySQL installation</td><td>2</td>
         </tr>        
         <tr>
-            <td>Demo : DBeaver installation & DB connection</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/DBeaver%20installation%20%26%20DB%20connection ">DBeaver installation & DB connection</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : MobaXterm installation & SSH connection</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/MobaExterm ">MobaXterm installation & SSH connection</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : NodeJS & NPM installation, operation & hello world</td><td>4</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/NodeJS%20%26%20NPM%20Install ">NodeJS & NPM installation, operation & hello world</td><td>4</td>
         </tr>
         <tr>
-            <td>Demo : Linux server operation</td><td>5</td>
+            <td>Demo : <a href =" ">Linux server operation</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : Nginx / Apache web server installation & operation</td><td>5</td>
+            <td>Demo : <a href =" ">Nginx / Apache web server installation & operation</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : Cpanel operation</td><td>4</td>
+            <td>Demo : <a href =" ">Cpanel operation</td><td>4</td>
         </tr>
         <tr>
-            <td>Demo : Domain registration</td><td>1</td>
+            <td>Demo : <a href =" ">Domain registration</td><td>1</td>
         </tr>
         <tr>
             <td rowspan=9>CLO-0212</td>
             <td rowspan=9>35 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href " ">HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
+            <td>Demo : <a href =" ">HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : <a href " ">Javascript Data Transformation</td><td>4</td>
+            <td>Demo : <a href =" ">Javascript Data Transformation</td><td>4</td>
         </tr>
         <tr>
-            <td>Demo : Browser API - Event Handling, Local Storage, Element manipulation</td><td>5</td>
+            <td>Demo : <a href =" ">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : HTTP GET & POST using Form Action and Fetch API</td><td>5</td>
+            <td>Demo : <a href =" ">HTTP GET & POST using Form Action and Fetch API</td><td>5</td>
         </tr>    
         <tr>
-            <td>Demo : PHP DB - Dynamic Web Page</td><td>5</td>
+            <td>Demo : <a href =" ">PHP DB - Dynamic Web Page</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : PHP DB - Web Service</td><td>5</td>
+            <td>Demo : <a href =" ">PHP DB - Web Service</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : OOP-based PHP Project using Composer</td><td>4</td>
+            <td>Demo : <a href =" ">OOP-based PHP Project using Composer</td><td>4</td>
         </tr>    
         <tr>
-            <td>Demo : Deploy PHP Project to Cpanel</td><td>4</td>
+            <td>Demo : <a href =" ">Deploy PHP Project to Cpanel</td><td>4</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
             <td rowspan=6>35 %</td>
         </tr>
         <tr>
-            <td>Demo : HTML Responsive Layout with Bootstrap</td><td>3</td>
+            <td>Demo : <a href =" ">HTML Responsive Layout with Bootstrap</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : Single Page App with React & React-router</td><td>12</td>
+            <td>Demo : <a href =" ">Single Page App with React & React-router</td><td>12</td>
         </tr>
         <tr>
-            <td>Demo : Dynamic Web Page using Laravel</td><td>9</td>
+            <td>Demo : <a href =" ">Dynamic Web Page using Laravel</td><td>9</td>
         </tr>
         <tr>
-            <td>Demo : Web Service using Slim</td><td>6</td>
+            <td>Demo : <a href =" ">Web Service using Slim</td><td>6</td>
         </tr>
         <tr>
-            <td>Demo : News Site using Wordpress</td><td>5</td>
+            <td>Demo : <a href =" ">News Site using Wordpress</td><td>5</td>
         </tr>
     </tbody>
 </table>
