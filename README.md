@@ -97,25 +97,25 @@
             <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Installization "> Git installation</td><td>1:heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo :  <a href =" https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Project%20init"> Github project initialization</td><td>1</td>
+            <td>Demo :  <a href =" https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/Git%20Project%20init"> Github project initialization</td><td>1:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">Hoppscotch / Postman access</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/PHP%20%26%20Composer%20installation%20%26%20hello%20world ">PHP & Composer installation & hello world</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/PHP%20%26%20Composer%20installation%20%26%20hello%20world ">PHP & Composer installation & hello world</td><td>2:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">PostgreSQL / MySQL installation</td><td>2</td>
         </tr>        
         <tr>
-            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/DBeaver%20installation%20%26%20DB%20connection ">DBeaver installation & DB connection</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/DBeaver%20installation%20%26%20DB%20connection ">DBeaver installation & DB connection</td><td>2:heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/MobaExterm ">MobaXterm installation & SSH connection</td><td>2</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/MobaExterm ">MobaXterm installation & SSH connection</td><td>2:heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/NodeJS%20%26%20NPM%20Install ">NodeJS & NPM installation, operation & hello world</td><td>4</td>
+            <td>Demo : <a href ="https://github.com/Nurrohman10/IF215007-IF215008/tree/main/Praktikum/NodeJS%20%26%20NPM%20Install ">NodeJS & NPM installation, operation & hello world</td><td>4:heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href =" ">Linux server operation</td><td>5</td>
