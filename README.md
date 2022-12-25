@@ -134,10 +134,10 @@
             <td rowspan=9>35 %</td>
         </tr>
         <tr>
-            <td>Demo : HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
+            <td>Demo : <a href " ">HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : Javascript Data Transformation</td><td>4</td>
+            <td>Demo : <a href " ">Javascript Data Transformation</td><td>4</td>
         </tr>
         <tr>
             <td>Demo : Browser API - Event Handling, Local Storage, Element manipulation</td><td>5</td>
