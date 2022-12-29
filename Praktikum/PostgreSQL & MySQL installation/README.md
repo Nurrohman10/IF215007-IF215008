@@ -64,3 +64,5 @@
     sudo -u git -H psql -d gitlabhq_production
 
 ### Image
+![image](https://user-images.githubusercontent.com/100698149/209930425-7b63bb8e-698a-4fc5-8aec-1f3c3cca31db.png)
+
