@@ -1,5 +1,3 @@
-### Image 
-
 
 #### Buat sesi baru, dan:
 1. Tambahkan 192.168.0.100sebagai host jarak jauh Anda. Tentukan nama pengguna dan port jika perlu.
@@ -22,3 +20,7 @@ echo $DISPLAY
 
 * [Fixing Vim's Background Color Erase for 256-color tmux and GNU screen](http://sunaku.github.io/vim-256color-bce.html)
 * [github](https://github.com/SeokjuLee/terminal-setup)
+
+### Image
+![image](https://user-images.githubusercontent.com/100698149/209930795-14d37bac-31ad-4bb4-a7db-77e3dd38e532.png)
+
