@@ -53,3 +53,7 @@ $ npm install -g npm
 ```
 
 To start using NVM, see this [Install Node with NVM](https://gist.github.com/MichaelCurrin/5c2d59b2bad4573b26d0388b05ab560e) gist.
+
+## image
+![image](https://user-images.githubusercontent.com/100698149/209932474-ba579afd-91af-4d1d-afed-91a4c090b072.png)
+
